@@ -1,0 +1,5 @@
+.env
+
+*~
+
+./be1api/node_modules/
